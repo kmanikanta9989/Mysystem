@@ -12,7 +12,7 @@ public class GroupTests
   @Test (groups = {"regression"})
   public void B() 
   {
-	  System.out.println("class B");
+	  System.out.println("class B ");
   }
   @Test (groups = {"sanity"})
   public void C() 
